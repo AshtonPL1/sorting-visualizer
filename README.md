@@ -3,7 +3,7 @@
 An educational tool that visualizes six classic sorting algorithms with
 step‑by‑step animation and real‑time metrics.
 
-![Demo Animation](bubble.gif)
+![Demo Animation](quick_sort.gif)
 
 ## Features
 
