@@ -68,3 +68,4 @@ logs/*.log
 *.csv
 *.json
 ~/.sorting_visualizer.ini
+!bubble.gif
