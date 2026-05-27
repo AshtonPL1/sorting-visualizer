@@ -69,3 +69,4 @@ logs/*.log
 *.json
 ~/.sorting_visualizer.ini
 !bubble.gif
+!quick_sort.gif
