@@ -7,8 +7,8 @@ step‑by‑step animation and real‑time metrics.
 
 ## Features
 
-- **Six algorithms**: Bubble Sort, Insertion Sort, Merge Sort, Quick Sort,
-  Heap Sort, Counting Sort.
+- **Six algorithms**: [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort), [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort), [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort), [Quick Sort](https://en.wikipedia.org/wiki/Quicksort),
+  [Heap Sort](https://en.wikipedia.org/wiki/Heapsort), [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort).
 - **Step‑by‑step animation** with highlighted comparisons and swaps.
 - **Real‑time HUD**: comparisons, swaps, auxiliary memory used, and elapsed
   time (pauses excluded).
