@@ -43,9 +43,7 @@ step‑by‑step animation and real‑time metrics.
 4. Launch interactive mode:
       ```bash
       python -m src.ui.console_ui --interactive
-  Or run in batch mode:
-      ```bash
-      
+      or(!)
       python -m src.ui.console_ui --algorithm bubble --size 20 --interval 100
 
 5. Export an animation:
@@ -56,16 +54,11 @@ step‑by‑step animation and real‑time metrics.
 
 *by 1) Algorithm name; 2) Average complexity; 3) Extra memory; 4) Notes.*
 
-**Bubble Sort**;	O(n²);	O(1);	*Simple comparison‑based*.
-
-**Insertion Sort**;	O(n²;)	O(1);	*Efficient on partially sorted data*.
-
-**Merge Sort**;	O(n log n);	O(n);	*Iterative bottom‑up implementation*.
-
-**Quick Sort**;	O(n log n);	O(log n)*;	*3‑way partition, median‑of‑three pivot*.
-
-**Heap Sort**;	O(n log n);	O(1);	*In‑place heap construction*.
-
+**Bubble Sort**;	O(n²);	O(1);	*Simple comparison‑based*.\
+**Insertion Sort**;	O(n²;)	O(1);	*Efficient on partially sorted data*.\
+**Merge Sort**;	O(n log n);	O(n);	*Iterative bottom‑up implementation*.\
+**Quick Sort**;	O(n log n);	O(log n)*;	*3‑way partition, median‑of‑three pivot*.\
+**Heap Sort**;	O(n log n);	O(1);	*In‑place heap construction*.\
 **Counting Sort**;	O(n + k);	O(n + k);	*Non‑negative integers only*.
 
 ## Technologies
