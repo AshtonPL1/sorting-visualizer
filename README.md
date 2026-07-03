@@ -195,5 +195,3 @@ Author: **Borovoy Nikita**
 Email: nurmag00@bk.ru  
 GitHub: [AshtonPL1](https://github.com/AshtonPL1)
 ```
-
-Скопируй весь этот блок (от `# Sorting Visualizer` до последней строки с GitHub-ссылкой) и вставь в свой `README.md`. После этого сделай `git commit` и `git push` — твой репозиторий засияет ещё ярче. Если нужно добавить скриншоты или ещё какие-то детали, я помогу.
