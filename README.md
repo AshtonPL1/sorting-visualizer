@@ -27,7 +27,7 @@ step‑by‑step animation and real‑time metrics.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sorting-visualizer.git
+   git clone https://github.com/AshtonPL1/sorting-visualizer.git
    cd sorting-visualizer
    ```
 
