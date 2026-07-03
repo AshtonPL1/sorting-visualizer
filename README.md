@@ -194,4 +194,3 @@ This project is licensed under the MIT License. See [LICENSE](https://github.com
 Author: **Borovoy Nikita**  
 Email: nurmag00@bk.ru  
 GitHub: [AshtonPL1](https://github.com/AshtonPL1)
-```
